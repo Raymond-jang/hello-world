@@ -5,3 +5,8 @@
 - add
 - branch
 - commit
+
+# branch update
+- branch
+- checkout
+- 
