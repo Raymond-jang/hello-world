@@ -18,3 +18,6 @@
 
 # merge 2
 -merge 2
+
+## conflcit
+- don't be afraid
