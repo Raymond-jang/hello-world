@@ -15,3 +15,6 @@
 - no change in head branch
 - merge branch starts from head
 - easy to merge = fast-forward
+
+# merge 2
+-merge 2
