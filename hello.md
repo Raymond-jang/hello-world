@@ -21,3 +21,9 @@
 
 ## conflcit
 - don't be afraid
+
+# commit back
+
+# use reset
+- pros: easy
+- cons: commit gone, force push
