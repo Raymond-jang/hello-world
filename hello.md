@@ -21,3 +21,9 @@
 
 ## conflcit
 - don't be afraid
+
+# revert commit
+
+## reset
+- delete commit
+- forc push
