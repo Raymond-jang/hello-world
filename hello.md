@@ -22,8 +22,16 @@
 ## conflcit
 - don't be afraid
 
+<<<<<<< HEAD
 # commit back
 
 # use reset
 - pros: easy
 - cons: commit gone, force push
+=======
+# revert commit
+
+## reset
+- delete commit
+- forc push
+>>>>>>> dd7a067da2ef34f314c759a778fc252f7b976ae3
